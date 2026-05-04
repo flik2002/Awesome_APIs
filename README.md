@@ -11,6 +11,9 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 English | [中文](README-zh.md)
 ## Table of Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 + [Anime](#anime)
 + [Blogging](#blogging)
 + [Books](#books)
